@@ -1,0 +1,8 @@
+source("01read_past_data.R")
+source("02phenology_param_estimate.R")
+source("03plot_estimated_phenology.R")
+source("04test_models.R")
+source("05plot_best_model.R")
+source("06read_future_data_and_predict.R")
+source("07summarize_prediction.R")
+source("08plot_future_climate_map.R")
